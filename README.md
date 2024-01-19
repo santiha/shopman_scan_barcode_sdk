@@ -12,6 +12,6 @@ allprojects {
 B2: 
 ```
 dependencies {
-	implementation 'com.github.MobileTeamSU12:Android_BrotherPrintLibrary:1.0.0'
+	implementation 'com.github.santiha:shopman_scan_barcode_sdk:1.0.0'
 }
 ```
